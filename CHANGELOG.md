@@ -10,6 +10,8 @@ and this project adheres to
 
 ### Added
 
+- A gallery example of Ward et al.'s intention test, with a worked policy
+  intervention example.
 - `maliar_training_loop` takes `policy_net`, a network to train in place of the
   one it builds, so a rule solved earlier can be the starting point.
 - `aiyagari_calibration` takes a discount factor, `beta`, returned as `DiscFac`,
